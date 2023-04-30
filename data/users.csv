@@ -1,0 +1,3 @@
+_id,firstName,lastName,userName,email,dateOfBirth,mobileNumber,password,__v
+643f7600b112e4c7d16de85c,Hashini,Rdimika,hashini01,hashini@example.com,2000-01-01,0711796102,password123,0
+643f7622b112e4c7d16de85e,Dinitha,Prasanna,Dini02,dini@example.com,2003-01-01,0711796102,password123,0

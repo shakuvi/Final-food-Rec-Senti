@@ -1,0 +1,4 @@
+_id,feedbackdetils,rateValue,userID,orderId,sentiment,__v
+6448d8a16f5e01906c098e9a,This is a test feedback,4,643f7622b112e4c7d16de85e,6441823bab5a7019b538882e,Neutral,0
+6448d8e76f5e01906c098e9c,This is a test feedback,2,643f7600b112e4c7d16de85c,644181eeab5a7019b538882c,Negative,0
+6448d9266f5e01906c098e9e,This is a test feedback,4,643f7600b112e4c7d16de85c,643f7714b112e4c7d16de860,Positive,0
